@@ -2,7 +2,7 @@
 - I used command line arguments in running the postgresql in-order to be ready for connection, and i used a `pgcli` as a client to manipulate the Postgres database.
 
 
-# This is SQL queries that i solved with homework questions:
+### This is SQL queries that i solved with homework questions:
 1. How many taxi trips were totally made on September 18th 2019?
 
    Tip: started and finished on 2019-09-18.
